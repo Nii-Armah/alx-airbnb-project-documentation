@@ -1,4 +1,4 @@
-# alx-airbnb-project-documentation
+# ALX Airbnb Project Documentation
 
 A comprehensive documentation for a clone of Airbnb
 
